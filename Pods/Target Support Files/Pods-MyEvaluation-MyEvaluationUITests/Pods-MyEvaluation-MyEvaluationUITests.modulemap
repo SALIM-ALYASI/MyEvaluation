@@ -1,0 +1,6 @@
+framework module Pods_MyEvaluation_MyEvaluationUITests {
+  umbrella header "Pods-MyEvaluation-MyEvaluationUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
